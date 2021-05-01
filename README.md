@@ -1,13 +1,20 @@
 # lbq-v2
 Extend FracBits to general bitwidth composition
+## Reference
+We've referenced many part of code from https://github.com/deJQK/FracBits.
 
-Command to execute:
+We appreciate authors of FracBits for open-sourcing the code for further research!
 
-```python3 train.py app:./apps/imagenet/0501_result_interp_window_4.yml```
 
-```python3 train.py app:./apps/imagenet/0501_result_interp_window_6.yml```
+## Command to execute:
 
-requirements
+```python3 train.py app:./apps/imagenet/0501_result_interp_mbv2_bitops5.35_ws4.yml```
+
+```python3 train.py app:./apps/imagenet/0501_result_interp_mbv2_bitops5.35_ws6.yml```
+
+
+
+## requirements
 
 pytorch 1.7+
 
