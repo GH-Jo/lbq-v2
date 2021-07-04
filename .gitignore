@@ -6,4 +6,4 @@ test2.py
 2021-05-01.ipynb
 *.ipynb
 .vscode/settings.json
-.sh
+*.sh
